@@ -3,3 +3,5 @@ numpy
 trimesh
 plotly
 Pillow
+networkx
+scipy
